@@ -16,25 +16,33 @@ function Card() {
 
       <div className="mt-8 space-y-4">
         <a
-          href="#"
+          href="https://github.com/DanielBritoSJunior"
+          target="_blank"
+          rel="noopener noreferrer"
           className="block rounded-2xl bg-slate-700 px-4 py-3 text-base font-medium text-white transition hover:bg-slate-600"
         >
           GitHub
         </a>
         <a
-          href="#"
+          href="http://www.linkedin.com/in/daniel-junior9"
+          target="_blank"
+          rel="noopener noreferrer"
           className="block rounded-2xl bg-slate-700 px-4 py-3 text-base font-medium text-white transition hover:bg-slate-600"
         >
           LinkedIn
         </a>
         <a
-          href="#"
+          href="https://www.instagram.com/daniel.junior_9/"
+          target="_blank"
+          rel="noopener noreferrer"
           className="block rounded-2xl bg-slate-700 px-4 py-3 text-base font-medium text-white transition hover:bg-slate-600"
         >
           Instagram
         </a>
         <a
-          href="#"
+          href="https://portfolio-me-daniel.vercel.app/"
+          target="_blank"
+          rel="noopener noreferrer"
           className="block rounded-2xl bg-slate-700 px-4 py-3 text-base font-medium text-white transition hover:bg-slate-600"
         >
           Portfolio Dev
